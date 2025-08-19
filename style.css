@@ -1,0 +1,28 @@
+.container2{
+    background-color: #fffdfd;
+}
+
+.container3 {
+    background-color: rgba(203, 240, 240, 0.455);
+    border-radius: 10px;
+}
+
+.container4 {
+    background-color: rgba(195, 195, 196, 0.135);
+}
+
+.footer{
+    background-color: rgb(27, 36, 73);
+    color: white;
+    height: 50px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.carousel-item img {
+    height: 500px;        
+    object-fit: cover;      
+    width: 100%;            
+}
